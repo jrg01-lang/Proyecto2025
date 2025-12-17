@@ -1,0 +1,1 @@
+Este fichero simula el codigo para llevar a cabo la issue #TestCard
